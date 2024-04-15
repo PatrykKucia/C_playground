@@ -9,3 +9,6 @@
 
 # 3.VARIABLES
 [Go to subsection](\VARIABLES\VARIABLES.md)
+
+# 4.BIT OPERATIONS
+[Go to subsection](\BIT_OPERATIONS\BIT_OPERATIONS.md)
