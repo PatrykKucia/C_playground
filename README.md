@@ -2,5 +2,10 @@
 "GitPlayground: Where C scripts mix with humor! Code, laugh, debug." 🚀😄
 
 # 1.UNIONS
-[Contribution guidelines for this project](\UNIONS\unions.md)
+[Go to subsection](\UNIONS\unions.md)
 
+# 2.TABS & MATRIX
+[Go to subsection](\TABS_&_MATRIX\TABS_&_MATRIX.md)
+
+# 3.VARIABLES
+[Go to subsection](\VARIABLES\VARIABLES.md)
